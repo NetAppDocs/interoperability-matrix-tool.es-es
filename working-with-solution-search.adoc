@@ -1,0 +1,88 @@
+---
+sidebar: sidebar 
+permalink: working-with-solution-search.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: Puede buscar diferentes soluciones de almacenamiento y añadir o quitar soluciones de sus criterios de búsqueda. Puede utilizar el cuadro de texto de búsqueda de la página Búsqueda de soluciones para buscar una solución específica. Las soluciones a las que se accede con frecuencia se muestran en el campo Búsqueda de soluciones. 
+---
+= Trabajar con búsqueda de soluciones
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Puede buscar diferentes soluciones de almacenamiento y añadir o quitar soluciones de sus criterios de búsqueda. Puede usar el cuadro de texto de búsqueda dentro de la página *Búsqueda de soluciones* para buscar una solución específica. Las soluciones a las que se accede con frecuencia se muestran en el campo *Búsqueda de soluciones*.
+
+
+
+== Acerca de esta tarea
+
+La página *Búsqueda de soluciones* incluye una pestaña *Catálogo de soluciones* y una pestaña *Asistente de asignación*. En la pestaña *Mapping Assistant*, puedes ver la categoría de una solución seleccionada seleccionando *Map by Category* o *Map by Solution*.
+
+
+
+=== Catálogo de soluciones
+
+En la pestaña *Catálogo de soluciones*, puedes *Filtrar soluciones* usando la barra de filtros.
+
+También puede seleccionar las configuraciones *Incluir PVR Requerido, EOS y Obsolete* si desea incluir dichas configuraciones.
+
+
+
+=== Asistente de asignación
+
+Los siguientes son los dos tipos de modos de área de trabajo:
+
+* *Mapa por categoría*: Puede seleccionar una categoría de las categorías enumeradas y habilitar todas las soluciones que contienen la categoría seleccionada, con soluciones válidas en la parte superior de la lista. Puede agregar soluciones activadas únicas o múltiples de su elección. Puedes usar el cuadro de texto *Categorías de búsqueda* para buscar una categoría específica.
+* *Mapa por solución*: Puede seleccionar una solución de las soluciones enumeradas y habilitar todas las soluciones que contienen la solución seleccionada, con soluciones válidas en la parte superior de la lista. Puede agregar soluciones activadas únicas o múltiples de su elección. Puede usar el cuadro de texto *Search Solutions* para buscar una categoría específica.
+
+
+También puede seleccionar las configuraciones *Incluir PVR Requerido, EOS y Obsolete* si desea incluir dichas configuraciones.
+
+Cuando haya terminado, podrá ver los elementos que ha seleccionado en la sección *Soluciones de almacenamiento seleccionadas*. *Haga clic en Ver Refinar criterios de búsqueda* o en *Saltar a resultados*.
+
+
+
+=== Búsqueda guiada
+
+*Búsqueda guiada* se habilita cuando se selecciona una solución. La *Búsqueda Guiada* proporciona un flujo de trabajo guiado para refinar un criterio más.
+
+
+
+== Pasos
+
+. Haga clic en la *Búsqueda de soluciones* de la página de inicio.
+. Seleccione la vista que desea utilizar:
++
+.. Haga clic en la vista *Expert* para ver las opciones de criterios avanzados.
+.. Haga clic en la *vista guiada* para ver las opciones de criterios simplificados y guiados.
+
+
+. En la vista *Novice*, seleccione las opciones de criterios de búsqueda a medida que se muestran:
++
+.. Haga clic en *Omitir* para pasar al siguiente componente sin hacer una selección. Puede volver al componente haciendo clic en *Unskip* según sea necesario.
+.. Después de las primeras cinco selecciones, haga clic en *Mostrar más* para continuar refinando sus criterios de búsqueda. Puede volver a la vista anterior haciendo clic en *Mostrar menos*.
+.. Cuando haya terminado, haga clic en *Ver resultados* para ver las configuraciones compatibles para sus criterios de búsqueda.
+
+
+. En *Vista experta*, selecciona los criterios de búsqueda que deseas usar para los distintos componentes. Le recomendamos que se mueva de izquierda a derecha, ya que cada selección refinará los criterios restantes. No es necesario realizar una selección para cada componente.
++
+.. Cuando haya terminado, haga clic en *Ver resultados* para ver las configuraciones compatibles para sus criterios de búsqueda.
+
+
+. También puede hacer lo siguiente como parte de *Búsqueda de soluciones*:
++
+.. Haga clic en el icono de libro para ver la política y las directrices aplicables a su selección.
+.. Haga clic en el icono de cadena para generar una URL compartible para sus selecciones que puede compartir con otros usuarios.
+.. Seleccione el icono de deshacer para borrar todas las selecciones y empezar de nuevo.
+
+
+. En la pantalla Resultados, puede hacer lo siguiente:
++
+.. Vea los detalles, las alertas y los avisos de información sobre su configuración.
+.. Haga clic en el icono de estrella para convertir esta búsqueda en un favorito. Asigne un nombre y describa la configuración. Se convierte en una búsqueda guardada, visible desde el menú Búsqueda guardada. También puede suscribirse a la configuración aquí, que le notificará cuando se realicen cambios. Si te suscribes, también verás esto en el menú *Suscripciones*.
+.. Pase el ratón sobre la vista *Build End to End View with* para encontrar soluciones adicionales compatibles.
+.. Haga clic en *Qué pasaría si* para cambiar los componentes y explorar otras opciones de compatibilidad.
+
+
+

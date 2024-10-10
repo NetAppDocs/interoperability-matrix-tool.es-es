@@ -1,0 +1,16 @@
+---
+sidebar: sidebar 
+permalink: using-what-if.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, host, os 
+summary: Puede explorar todas las configuraciones posibles que se admiten con sus criterios de búsqueda. 
+---
+= Utilice la simulación
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Puede explorar todas las configuraciones posibles que se admiten con sus criterios de búsqueda. Puede usar *What If* para actualizar o degradar un componente para una configuración seleccionada y explorar la compatibilidad.
+
+Si no encuentra la configuración que desea, haga clic en *Feedback* para informar de un problema. Para obtener más información, consulte xref:reporting-an-issue.adoc[Informar de un problema].

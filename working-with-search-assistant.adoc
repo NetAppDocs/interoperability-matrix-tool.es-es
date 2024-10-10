@@ -1,0 +1,16 @@
+---
+sidebar: sidebar 
+permalink: working-with-search-assistant.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, search, assistant 
+summary: Puede utilizar el asistente de búsqueda que le proporciona las sugerencias para explorar las configuraciones compatibles en función de los criterios de búsqueda. 
+---
+= Trabaje con el asistente de búsqueda
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+*Asistente de búsqueda* proporciona sugerencias para explorar las configuraciones compatibles dependiendo de los criterios de búsqueda que ingreses. La sección *Asistente de búsqueda* muestra las categorías más utilizadas de las que puede seleccionar componentes para incluir en los criterios de búsqueda. En función del componente seleccionado, el asistente de búsqueda muestra los componentes y soluciones compatibles.
+
+En caso de que haya introducido un criterio de búsqueda incorrecto y la Herramienta de Matriz de Interoperabilidad (IMT) no encuentre ningún resultado, el *Asistente de búsqueda* muestra las sugerencias para corregir los criterios de búsqueda.

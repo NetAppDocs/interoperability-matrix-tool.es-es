@@ -1,0 +1,18 @@
+---
+sidebar: sidebar 
+permalink: finding-specific-config-and-checking-for-product-upgrade.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, windows, server 
+summary: Determine .. 
+---
+= Busque una configuración específica y compruebe la compatibilidad de actualización o degradación del producto
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Puede utilizar la herramienta de matriz de interoperabilidad para ver una configuración específica para actualizar o degradar un componente de la configuración de producto.
+
+A continuación se muestra el flujo de trabajo:
+
+image::pg16_imt.png[flujo de trabajo para ver una configuración específica para actualizar o degradar]

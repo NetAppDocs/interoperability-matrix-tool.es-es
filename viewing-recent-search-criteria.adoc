@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: viewing-recent-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: En la página Bienvenido a IMT, puede cargar los criterios de búsqueda guardados para mostrar las búsquedas recientes. 
+---
+= Consulta de criterios de búsqueda recientes
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+En la página *Bienvenido a IMT*, puedes cargar Criterios de búsqueda guardados para mostrar tus búsquedas recientes.
+
+
+
+== Antes de empezar
+
+Debe haber guardado las búsquedas recientes.
+
+
+
+== Pasos
+
+. Haga clic en *Búsqueda guardada*.
+. Seleccione la pestaña *Búsqueda reciente* para ver las búsquedas guardadas recientemente. Se mostrarán las búsquedas recientes.
+. Selecciona la pestaña *Criterios de búsqueda* para ver tus criterios de búsqueda guardados específicos. Se mostrarán los criterios guardados.
+

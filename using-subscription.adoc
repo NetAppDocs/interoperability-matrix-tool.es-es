@@ -1,0 +1,30 @@
+---
+sidebar: sidebar 
+permalink: using-subscription.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: El enlace de suscripción le permite suscribirse a la solución de almacenamiento, la categoría o el componente. Si se ha suscrito a una solución, categoría o componente de almacenamiento en particular, recibirá un correo electrónico sólo si se realizan cambios en las soluciones, categorías o componentes suscritos. 
+---
+= Usar suscripción
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+El enlace *Suscripción* te permite suscribirte a *Solución de almacenamiento, Categoría o Componente*. Si se ha suscrito a una solución, categoría o componente de almacenamiento en particular, recibirá un correo electrónico sólo si se realizan cambios en las soluciones, categorías o componentes suscritos.
+
+Recibirás correos electrónicos para las siguientes suscripciones:
+
+. *Solución de almacenamiento*: Cuando los cambios se realizan en la actualización de estado, categorías asociadas o desasociadas, y configuraciones añadidas o eliminadas.
+. *Categoría*: Cuando los componentes se agregan o eliminan de la categoría.
+. *Componente*: Cuando los cambios se realizan en el nombre mostrado del componente o estado del componente.
++
+
+NOTE: Recibirá un correo electrónico en función del tipo de frecuencia que seleccione. Los dos tipos de frecuencia son los siguientes:
+
++
+** Inmediato: Recibirá un correo electrónico inmediatamente cuando se realicen cambios en las soluciones, categorías o componentes suscritos.
+** Digest: Recibirá un correo electrónico acumulado cada siete días reflejando todos los cambios que se realicen en las soluciones, categorías o componentes suscritos.
+
+
+

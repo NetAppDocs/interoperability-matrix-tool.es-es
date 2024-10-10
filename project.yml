@@ -1,0 +1,150 @@
+---
+settings:
+  name: Interoperability Matrix Tool
+  internal:
+    pdf_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: false
+  langs: es-es,us-en,ja-jp,ko-kr,zh-cn,zh-tw,de-de,fr-fr,it-it
+sidebar:
+  entries:
+  - title: Descripción general de la herramienta de matriz de interoperabilidad
+    url: "/index.html"
+  - title: Realice búsquedas comunes
+    url: "/performing-common-searches.html"
+    entries:
+    - title: Trabaje con la búsqueda simplificada de host SAN de ONTAP
+      url: "/working-with-ontap-san-host-solutions-search.html"
+    - title: Trabajar con búsqueda de soluciones
+      url: "/working-with-solution-search.html"
+    - title: Trabajar con Lista y Buscar
+      url: "/working-with-list-and-find.html"
+    - title: Trabajar con Búsqueda Avanzada
+      url: "/working-with-advanced-search.html"
+  - title: Explore la herramienta de matriz de interoperabilidad
+    url: "/exploring-the-interoperability-matrix-tool.html"
+    entries:
+    - title: Usar suscripción
+      url: "/using-subscription.html"
+    - title: Usar notificaciones
+      url: "/using-notifications.html"
+    - title: Capacidades de búsqueda guardadas
+      url: "/saved-search-capabilities.html"
+    - title: El uso no puede encontrar la configuración
+      url: "/use-cannot-find-config.html"
+    - title: Herramientas disponibles en Toolbox
+      url: "/tools-available-in-toolbox.html"
+    - title: Informes de solución
+      url: "/solution-reports.html"
+    - title: Trabajar con preferencias
+      url: "/working-with-preferences.html"
+  - title: Flujo de trabajo de búsqueda de la herramienta de matriz de interoperabilidad
+    url: "/interoperability-matrix-tool-search-workflow.html"
+    entries:
+    - title: Trabaje con el asistente de búsqueda
+      url: "/working-with-search-assistant.html"
+    - title: Trabajar con el cuadro de texto de búsqueda
+      url: "/working-with-search-text-box.html"
+    - title: Utilizar criterios de búsqueda de afinado
+      url: "/using-refine-search-criteria.html"
+    - title: Encuentre un sistema operativo host compatible para sus productos
+      url: "/finding-compatible-host-os.html"
+    - title: Encuentre un host de Windows Server compatible para sus productos
+      url: "/finding-compatible-windows-server.html"
+    - title: Encuentre compatibilidad con tarjetas HBA
+      url: "/finding-compatible-with-hba-cards.html"
+    - title: Busque una configuración específica y compruebe la compatibilidad de
+        actualización o degradación del producto
+      url: "/finding-specific-config-and-checking-for-product-upgrade.html"
+    - title: Trabajar con resultados
+      url: "/working-with-results.html"
+    - title: Genere compatibilidad integral entre productos
+      url: "/building-end-to-end-compatibility.html"
+    - title: Consulte las políticas y directrices
+      url: "/viewing-policies-and-guidelines.html"
+    - title: Utilice la simulación
+      url: "/using-what-if.html"
+    - title: La herramienta Asesor de Interoperaciones de Active IQ para determinar
+        la compatibilidad
+      url: "/the-activeiq-interop-advisor-tool.html"
+    - title: Notifique un problema
+      url: "/reporting-an-issue.html"
+  - title: Defina e introduzca los criterios de búsqueda
+    url: "/defining-and-entering-the-search-criteria.html"
+    entries:
+    - title: Agregue componentes a los criterios de búsqueda
+      url: "/add-components-to-search-criteria.html"
+    - title: Agregue soluciones a los criterios de búsqueda
+      url: "/add-solutions-to-search-criteria.html"
+    - title: Agregue nombres de configuración a los criterios de búsqueda
+      url: "/add-config-names-to-search-criteria.html"
+  - title: Trabaje con criterios guardados, búsquedas recientes y configuraciones
+    url: "/working-with-saved-criteria-recent-searches-and-config.html"
+    entries:
+    - title: Guarde los criterios de búsqueda
+      url: "/saving-the-search-criteria.html"
+    - title: Uso compartido de criterios de búsqueda guardados con otros usuarios
+      url: "/saved-search-criteria-sharing-with-other-users.html"
+    - title: Cargue los criterios guardados
+      url: "/loading-the-saved-criteria.html"
+    - title: Editar criterios guardados
+      url: "/editing-saved-criteria.html"
+    - title: Suprimir criterios guardados
+      url: "/deleting-saved-criteria.html"
+    - title: Guarde la configuración
+      url: "/saving-configuration.html"
+    - title: Suscribirse a configuraciones
+      url: "/subscribing-to-config.html"
+    - title: Cancele la suscripción de las configuraciones suscritas
+      url: "/unsubscribe-the-subscribed-config.html"
+    - title: Cargue la configuración guardada
+      url: "/loading-the-saved-config.html"
+    - title: Elimine la configuración de las etiquetas guardadas
+      url: "/removing-config-from-saved-tags.html"
+    - title: Eliminar nombres de etiquetas
+      url: "/deleting-tag-names.html"
+    - title: Guardar una búsqueda reciente
+      url: "/saving-a-recent-search.html"
+    - title: Consulta de criterios de búsqueda recientes
+      url: "/viewing-recent-search-criteria.html"
+  - title: Busque la compatibilidad mediante Afinar criterios de búsqueda
+    url: "/finding-the-compatibility-using-the-refine-search-criteria.html"
+    entries:
+    - title: La página Afinar Criterios de Búsqueda para verificar la compatibilidad
+      url: "/refine-serach-page-to-verify-compatibility.html"
+    - title: Aplicar filtros a categorías
+      url: "/apply-filters-to-categories.html"
+    - title: Modifique los criterios de búsqueda
+      url: "/modify-the-search-criteria.html"
+    - title: Generar la URL
+      url: "/generate-the-url.html"
+  - title: Comprensión y uso de los resultados de la herramienta de matriz de interoperabilidad
+    url: "/understanding-and-using-imt-results.html"
+    entries:
+    - title: Búsquedas de configuración admitidas
+      url: "/supported-config-searches.html"
+    - title: Utilizar comparación de filas
+      url: "/using-row-compare.html"
+    - title: Cree una vista integral para una configuración seleccionada
+      url: "/create-end-to-end-view-for-selected-config.html"
+    - title: Exportar resultados de configuración
+      url: "/export-config-results.html"
+  - title: Cómo usar qué sucede
+    url: "/how-to-use-what-if.html"
+    entries:
+    - title: Seleccione un componente para actualizar o degradar
+      url: "/select-component-to-upgrade-or-downgrade.html"
+  - title: Suscríbase a soluciones de almacenamiento, categorías o componentes
+    url: "/subscribing-to-storage-solutions-categories-or-categories.html"
+    entries:
+    - title: Suscríbase a Soluciones de almacenamiento
+      url: "/subscribing-to-storage-solutions.html"
+    - title: Suscribirse a Categorías
+      url: "/subscribing-to-categories.html"
+    - title: Suscribirse a Componentes
+      url: "/subscribing-to-components.html"
+  - title: Solucione problemas de la herramienta de matriz de interoperabilidad
+    url: "/troubleshooting-interoperability-matrix-tool-issues.html"
+  - title: Obtenga más información
+    url: "/get-more-information.html"

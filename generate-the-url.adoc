@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: generate-the-url.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: En la página Afinar criterios de búsqueda, puede generar una dirección URL para la compatibilidad. 
+---
+= Generar la URL
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+En la página *Refinar criterios de búsqueda*, puedes generar una URL para la compatibilidad. Puede integrar la URL generada en otras herramientas, cargarla en el sitio de soporte de NetApp o compartirla a través de un correo electrónico. La URL generada se puede cargar directamente en el navegador.
+
+.Pasos
+. En la página *Refinar criterios de búsqueda*, seleccione los componentes para filtrar los resultados.
+. Haga clic en *Generar URL*.
+. Copie la URL de la ventana de uso compartido de URL.
+. Haga clic en *Aceptar*.
+
+
+
+NOTE: Puede utilizar la URL que ha generado. La URL mostrará los componentes y las soluciones que ha agregado a los criterios de búsqueda.

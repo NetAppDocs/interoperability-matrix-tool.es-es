@@ -1,0 +1,30 @@
+---
+sidebar: sidebar 
+permalink: working-with-preferences.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, list, find, component, explorer 
+summary: Puede utilizar la lista de preferencias y buscar preferencias de categoría para guardar sus categorías favoritas. 
+---
+= Trabajar con preferencias
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+El menú *Preferencias y Buscar Preferencias de Categoría* abre la página *Preferencias de Lista y Búsqueda de Categorías*, donde puedes guardar tus categorías favoritas en la parte superior de la lista *Lista y Buscar Explorador de Componentes*.
+
+
+
+== Acerca de esta tarea
+
+Puedes usar la página *Lista y Buscar Preferencias de Categoría* para seleccionar tus categorías favoritas. Estas categorías aparecen en la parte superior de la lista *List y Buscar Explorador de Componentes* y están en caja en rojo.
+
+
+
+== Pasos
+
+. Haga clic en *Lista de preferencias y busque Preferencias de categoría* en la página de inicio. Se abre la página *Lista y Buscar Preferencias de Categoría*.
+. Seleccione las categorías que desea guardar como favoritas. Puede desplazarse por la lista o buscar categorías en el campo *Categorías de búsqueda*. Puede seleccionar tantas categorías como necesite.
+. Haga clic en *Guardar* para mantener sus preferencias. Si es necesario, puede hacer clic en *Restablecer* para borrar la lista de preferencias existente.
+. Para ver tus preferencias, haz clic en *Inicio* y luego haz clic en *Lista y Buscar*. Tus categorías favoritas aparecen en la parte superior del *Explorador de componentes*, delineadas en rojo.
+

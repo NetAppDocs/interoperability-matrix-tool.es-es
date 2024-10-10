@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: modify-the-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: En la página Afinar Criterios de Búsqueda, puede modificar los criterios de búsqueda para agregar una solución, componente o categoría a los criterios. 
+---
+= Modifique los criterios de búsqueda
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+En la página *Refinar criterios de búsqueda*, puede modificar los criterios de búsqueda para agregar una solución, componente o categoría a los criterios.
+
+
+
+== Pasos
+
+. En la página *Afinar criterios de búsqueda*, haz clic en *Cambiar criterios*.
+. En la página de criterios de búsqueda, puede agregar una solución, componente o categoría mediante el cuadro de texto de búsqueda.
+. Haga clic en *Siguiente* para ver las configuraciones compatibles en la página *Refinar criterios de búsqueda*.
+

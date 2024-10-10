@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: how-to-use-what-if.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: *¿Qué pasa si* le permite explorar todas las configuraciones compatibles posibles que son compatibles. 
+---
+= Cómo usar qué sucede
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+*¿Qué pasa si* le permite explorar todas las configuraciones compatibles posibles que son compatibles. Puede usar la función *What If* para actualizar o degradar un componente en una configuración seleccionada y explorar la compatibilidad. Para ver todas las configuraciones compatibles después de actualizar o degradar un componente, puede utilizar la opción *Exportar* para exportar los detalles de configuración a una hoja de cálculo de Excel o PDF.
+
+Después de seleccionar un componente específico para actualizar o degradar en la ventana *¿Si?*, puede ver si el componente seleccionado es compatible con otros componentes de la configuración o si no hay configuraciones coincidentes. En caso de que no haya configuraciones coincidentes, debe considerar la ampliación de los criterios iniciales para derivar más configuraciones.
+
+La ventana *What If* se divide en dos paneles:
+
+* El panel superior indica si un componente seleccionado coincide con cualquier configuración válida.
+* El panel inferior muestra las distintas categorías y las respectivas versiones de componentes.
+
+
+Si no encuentra la configuración que desea, haga clic en *Feedback* para informar de un problema.
+
+Para obtener más información, consulte link:reporting-an-issue.html["Notifique un problema"].

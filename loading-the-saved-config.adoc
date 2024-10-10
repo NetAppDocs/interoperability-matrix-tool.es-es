@@ -1,0 +1,37 @@
+---
+sidebar: sidebar 
+permalink: loading-the-saved-config.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Puede cargar las configuraciones guardadas anteriormente desde la página inicial. Puede ver el nombre de la etiqueta, la descripción y el nombre de la solución de la configuración guardada. 
+---
+= Cargue la configuración guardada
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Puede cargar las configuraciones guardadas anteriormente desde la página inicial. Puede ver el nombre de la etiqueta, la descripción y el nombre de la solución de la configuración guardada.
+
+
+
+== Antes de empezar
+
+Puede cargar la configuración específica buscando el nombre que ha especificado para esa configuración en particular.
+
+
+
+== Acerca de esta tarea
+
+Si ya ha guardado la configuración, puede cargarla más tarde en cualquier momento.
+
+
+
+== Pasos
+
+. En la página de inicio, haga clic en la opción *Búsqueda guardada* para cargar la configuración guardada.
+. En la pestaña *Configuración guardada*, haga clic en Configuración.
+. Al pasar el ratón sobre la configuración guardada se muestra el nombre de la configuración.
+. Haga clic en el *Tag Name* y cargue la configuración.
+. Haga clic en el enlace *Ver detalles* para ir a la página de resultados.
+

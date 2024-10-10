@@ -1,0 +1,45 @@
+---
+sidebar: sidebar 
+permalink: add-components-to-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Puede agregar componentes a los criterios de búsqueda mediante el cuadro de texto de búsqueda o la búsqueda avanzada. 
+---
+= Agregue componentes a los criterios de búsqueda
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Puede agregar componentes a sus criterios de búsqueda utilizando el cuadro de texto de búsqueda o la *Búsqueda avanzada*.
+
+.Acerca de esta tarea
+Si sabe qué componentes desea agregar a los criterios de búsqueda, puede introducir los nombres de los componentes en el cuadro de texto de búsqueda. Puede utilizar la *Búsqueda avanzada* si no está seguro de qué componentes desea agregar a los criterios de búsqueda.
+
+Si desea borrar los componentes incluidos en los criterios de búsqueda, puede hacer clic en *Borrar todo* en la esquina superior derecha.
+
+.Pasos
+. En la página inicial de la Herramienta de Matriz de Interoperabilidad, introduzca el nombre del componente en el cuadro de texto de búsqueda para ver las posibles coincidencias para el componente.
++
+.. Haga clic en *Agregar* para incluir el componente en los criterios de búsqueda.
+.. Haga clic en *Agregar* para incluir los componentes de varias categorías en los criterios de búsqueda.
+.. Si hace clic en *Mostrar todas las coincidencias*, IMT muestra la *Búsqueda avanzada* mediante la cual puede incluir más componentes a los criterios de búsqueda.
+
+
+. Opcional. Puede incluir un componente en los criterios de búsqueda utilizando la *Búsqueda avanzada*.
++
+.. Haga clic en *Búsqueda avanzada*.
+.. En la ventana *Búsqueda avanzada*, seleccione una categoría o solución en el panel izquierdo.
+.. En el panel derecho, identifique el componente que se va a agregar a los criterios de búsqueda y haga clic en *Agregar*.
+.. Introduzca palabras clave en la ventana *Búsqueda avanzada*.
+
+
+
+
+Puede activar palabras clave como opción de búsqueda. Si está activada, puede buscar una o más filas mediante palabras clave asociadas a esas filas. También puede usar el cuadro de texto de búsqueda dentro de la ventana *Búsqueda avanzada* para buscar un componente específico. Para eliminar un componente agregado usando la *Búsqueda avanzada*, puedes hacer clic en *Eliminar* en el panel derecho.
+
+
+
+== Resultado
+
+Al incluir componentes en los criterios de búsqueda, los componentes se muestran en el panel derecho bajo *Criterios de búsqueda*.

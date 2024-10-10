@@ -1,0 +1,21 @@
+---
+sidebar: sidebar 
+permalink: select-component-to-upgrade-or-downgrade.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: Puede usar la función Qué sucede en la página *Resultados* para actualizar o degradar un componente en la configuración de su producto. Puede cambiar los componentes y explorar la compatibilidad. 
+---
+= Seleccione un componente para actualizar o degradar
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Puede usar la función *What If* en la página *Results* para actualizar o degradar un componente en la configuración de su producto. Puede cambiar los componentes y explorar la compatibilidad.
+
+.Pasos
+. Haga clic en *¿Qué pasa si* para ver los componentes que puede actualizar o degradar para modificar la configuración seleccionada.
+. Haga clic en una categoría para ver los componentes disponibles para actualizar o degradar.
+. En la ventana de opciones disponibles, puede buscar una versión de componente específica y seleccionarla.
+. Si el componente seleccionado es una configuración válida y compatible con su configuración anterior, se muestra el mensaje de compatibilidad. Ahora puede exportar los resultados para ver todas las configuraciones admitidas.
+

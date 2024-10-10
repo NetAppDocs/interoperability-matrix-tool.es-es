@@ -1,0 +1,27 @@
+---
+sidebar: sidebar 
+permalink: viewing-policies-and-guidelines.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, host, os 
+summary: La página Políticas y directrices describe toda la información y orientación actuales sobre la solución. 
+---
+= Consulte las políticas y directrices
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+:firstname: [.lead]
+:author: [.lead]
+:authorinitials: [
+:authors: [.lead]
+:revdate: The *Policies &amp; Guidelines* link opens the Policies and Guidelines page for the selected solution.
+
+
+La página Políticas y directrices describe toda la información y orientación actuales sobre la solución.
+
+
+
+== Pasos
+
+. Haga clic en *Políticas y directrices* en la página *Playground*. Se abre la página *Políticas y Directrices*.
+. Revise las últimas noticias, orientación, información sobre políticas y copyright de la solución. En la página *Playground*, puedes cambiar la solución para ver otras políticas y directrices específicas de ella.
+. Cierra la página y vuelve a la página *Playground*.
+

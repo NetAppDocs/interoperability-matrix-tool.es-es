@@ -1,0 +1,89 @@
+---
+sidebar: sidebar 
+permalink: saved-search-criteria-sharing-with-other-users.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Puede compartir sus criterios con los demás usuarios. 
+---
+= Uso compartido de criterios de búsqueda guardados con otros usuarios
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Desde la página *Refinar criterios de búsqueda*, puedes compartir tus criterios de *Búsqueda guardada* con otros usuarios.
+
+Los siguientes son los tres métodos diferentes para guardar y compartir los criterios de búsqueda:
+
+* <<Comparta los criterios mientras guarda>>
+* <<Comparta los criterios después de guardar>>
+* <<Consulta de criterios compartidos>>
+
+
+
+
+== Comparta los criterios mientras guarda
+
+En la página Afinar criterios de búsqueda, puede compartir los criterios de búsqueda mientras guarda.
+
+
+
+=== Antes de empezar
+
+Debe agregar las soluciones y componentes en la primera página para compartir los criterios mientras guarda.
+
+
+
+=== Pasos
+
+. Active la casilla Compartir para compartir los criterios de búsqueda guardada.
+. Introduzca el nombre de usuario en el cuadro de texto para la búsqueda de usuarios y haga clic en Agregar usuarios.
++
+
+NOTE: Si el nombre de usuario no existe, se muestra un mensaje de validación.
+
+. Puede buscar mientras utiliza la opción de usuario de búsqueda y enviar criterios para compartir.
+
+
+
+
+== Comparta los criterios después de guardar
+
+En la página Afinar criterios de búsqueda, puede compartir los criterios de búsqueda después de guardar.
+
+
+
+=== Antes de empezar
+
+Debe agregar las soluciones de búsqueda guardada y los componentes en la primera página para compartir los criterios después de guardar.
+
+
+
+=== Pasos
+
+. Haga clic en la opción Búsqueda guardada en la página de inicio.
+. Haga clic en Compartir para compartir los criterios con otros.
+. Introduzca el nombre de usuario en el cuadro de texto para buscar los usuarios y haga clic en Enviar.
+
+
+
+
+== Consulta de criterios compartidos
+
+
+
+=== Antes de empezar
+
+Debe guardar las soluciones y los componentes en la búsqueda guardada.
+
+
+
+=== Pasos
+
+. Puede ver los criterios que ha compartido con otros usuarios estableciendo la opción Búsqueda guardada como predeterminada.
+. Seleccione Nombre de usuario en la columna Compartido por para ver los criterios compartidos.
+. Se enviará una notificación por correo electrónico a los usuarios compartidos que notifiquen sobre el recurso compartido.
+
+
+
+NOTE: La actualización de los criterios originales no afectará a los criterios compartidos. Se consideran entidades separadas.

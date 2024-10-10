@@ -1,0 +1,40 @@
+---
+sidebar: sidebar 
+permalink: troubleshooting-interoperability-matrix-tool-issues.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Es necesario conocer algunos problemas comunes de la Herramienta de Matriz de Interoperabilidad. 
+---
+= Solucione problemas de la herramienta de matriz de interoperabilidad
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Es necesario conocer algunos problemas comunes de la Herramienta de Matriz de Interoperabilidad.
+
+[cols="2*"]
+|===
+| De los clientes | Solución alternativa 
+
+
+| La herramienta de matriz de interoperabilidad no se carga | Debe borrar la memoria caché del explorador, abrir un nuevo explorador e intentar iniciar sesión en IMT. 
+
+
+| La herramienta de matriz de interoperabilidad se bloquea | Esto puede ser un problema de red, puede intentar actualizar el navegador. 
+
+
+| PI no infiere la solución deseada | Debe seleccionar la solución adecuada del *Catálogo de soluciones* o seleccionar un componente específico. 
+
+
+| No se pueden seleccionar propiedades diferentes en *Refine Search Criteria* para la configuración de HBA | Debe anular la selección del componente HBA y seleccionar una propiedad. 
+
+
+| La generación de informes diarios muestra el error 404 | Los trabajos cron diarios se ejecutan a las 22:00 horas PST y, durante 30 minutos, los informes no estarán disponibles. 
+
+
+| Error de autenticación de inicio de sesión para el inicio de sesión por primera vez en la herramienta de matriz de interoperabilidad | Debe sincronizar las credenciales de inicio de sesión para la herramienta de matriz de interoperabilidad. 
+
+
+| Los componentes recién agregados no se muestran | Espere cuatro horas; los componentes se actualizarán automáticamente. 
+|===

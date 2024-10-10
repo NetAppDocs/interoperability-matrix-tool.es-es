@@ -1,0 +1,36 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-config.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Puede suscribirse a configuraciones con el nombre que elija para una solución o componente en particular. 
+---
+= Suscribirse a configuraciones
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Puede suscribirse a configuraciones con el nombre que elija para una solución o componente en particular. Esto le ayuda a recibir actualizaciones por correo electrónico cuando hay una actualización o cambio en la fila suscrita. Puede suscribirse a un máximo de 20 configuraciones.
+
+
+
+== Acerca de esta tarea
+
+Puede recibir los correos electrónicos para las siguientes instancias:
+
+* Cuando se agregan componentes a la configuración
+* Cuando los componentes se eliminan de la configuración
+* Cuando se agregan o eliminan notas de la configuración
+* Cuando el estado de la configuración cambia de compatible a cualquiera de los estados de terminal adicionales (EOS, Obsoleto, etc.).
+
+
+
+
+== Pasos
+
+. En la página *Results*, haga clic en asterisco para guardar la configuración. Después de guardar la configuración, la estrella se vuelve amarilla. Puede guardar un máximo de 20 configuraciones.
+. En el cuadro de diálogo *Configuración de etiquetas*, introduzca el nombre y la descripción para marcar la configuración como referencia.
+. Haga clic en *Suscribir* a esta casilla de verificación de configuración.
+. Haga clic en *Etiqueta*.
+

@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: working-with-search-text-box.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified 
+summary: Puede buscar componentes, soluciones, categorías y configuraciones utilizando el cuadro de texto de búsqueda. En función del texto que introduzca, el cuadro de texto de búsqueda muestra las posibles coincidencias que puede incluir en los criterios de búsqueda. 
+---
+= Trabajar con el cuadro de texto de búsqueda
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Puede buscar componentes, soluciones, categorías y configuraciones utilizando el cuadro de texto de búsqueda. En función del texto que introduzca, el cuadro de texto de búsqueda muestra las posibles coincidencias que puede incluir en los criterios de búsqueda.

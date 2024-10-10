@@ -1,0 +1,68 @@
+---
+sidebar: sidebar 
+permalink: exploring-the-interoperability-matrix-tool.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: 'La herramienta de matriz de interoperabilidad (IMT) es una aplicación web que utiliza para buscar compatibilidad y configuraciones compatibles para sus productos de NetApp.' 
+---
+= Explore la herramienta de matriz de interoperabilidad
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+La herramienta de matriz de interoperabilidad (IMT) es una aplicación web que utiliza para buscar compatibilidad y configuraciones compatibles para sus productos de NetApp.
+
+Es posible realizar las siguientes tareas:
+
+[cols="25,75"]
+|===
+| Al usar... | Puede ejecutar estas tareas... 
+
+
+| Página de inicio | Busque con el host de SAN de *ONTAP simplificado, búsqueda de soluciones, lista y búsqueda*, y *Búsqueda avanzada* para ver la compatibilidad. Proporciona un enlace directo a los videos de *Entrenamiento* y al Asesor de Interoperaciones de *Active IQ*. 
+
+
+| Host SAN de ONTAP simplificado | Compruebe la compatibilidad para las combinaciones de versiones de ONTAP y versiones de almacenamiento de Flash/Fabric. 
+
+
+| Búsqueda de soluciones | Busque la solución y agregue criterios para comprobar la compatibilidad. 
+
+
+| Listar y buscar | Sepa dónde se utiliza el componente en las distintas configuraciones y en todas las soluciones. 
+
+
+| Búsqueda avanzada | Busque componentes y agregue criterios para comprobar la compatibilidad. 
+
+
+| Suscripciones | Vea las configuraciones de *Storage Solution, Category o Component* que haya suscrito previamente. 
+
+
+| Notificaciones | Ver notificaciones de actualizaciones de IMT. 
+
+
+| Búsqueda guardada | Abrir búsquedas que ha guardado anteriormente. 
+
+
+| No se puede encontrar la configuración | Se utiliza para informar de una configuración que no se encuentra en IMT. 
+
+
+| Caja de herramientas | Acceda a herramientas dependiendo de su función como empleado de *Cliente, Socio o NetApp Interno*. 
+
+
+| Leídos | Exporte las configuraciones de una solución utilizando el informe *Exportaciones diarias completas* o exporte los componentes de soporte de fin de versión utilizando el informe *Resumen EOVS de componente*. 
+
+
+| Preferencia | Crea una lista de las categorías favoritas *List y encuentra*. Estas categorías aparecen en la parte superior del *Explorador de componentes* en *Lista y Buscar*. 
+
+
+| Ayuda | Haga clic en *Novedades* para ver las últimas notas de la versión de IMT. Haga clic en *Ayuda en línea* para ver este conjunto de ayuda de la Herramienta de matriz de interoperabilidad. Haga clic en *Entrenamiento* para ver videos que exploran cómo usar la Herramienta de Matriz de Interoperabilidad, compruebe el https://www.youtube.com/playlist?list=PLdXI3bZJEw7moxyCCpO4p4G-73NN6q4RH["Centro de aprendizaje de NetApp"^]. Para informar de un problema o proporcionar comentarios sobre la Herramienta de Matriz de Interoperabilidad, haga clic en el enlace *Informar de un problema*. Haga clic en *FAQ* para ver las preguntas y respuestas más frecuentes sobre IMT. Haga clic en *Iniciativa de datos*, si está disponible, para ver la limpieza planificada de la base de datos de IMT. Haga clic en *Acerca de IMT* para ver la versión y la declaración de copyright. Haga clic en *Problemas conocidos* para ver los errores notificados y no resueltos en el producto. 
+
+
+| Haz una visita guiada | Vea una visita guiada por el IMT. 
+
+
+| <Your name> | Haga clic para *logout* de IMT. 
+|===
+
+NOTE: Si cambia el tamaño de la ventana, todas las páginas se vuelven responsivas.

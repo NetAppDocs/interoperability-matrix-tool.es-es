@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: saving-the-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: En la página Afinar criterios de búsqueda, puede guardar o actualizar los criterios de búsqueda para recuperarlos más tarde. 
+---
+= Guarde los criterios de búsqueda
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+En la página *Refinar criterios de búsqueda*, puedes elegir guardar o actualizar los criterios de búsqueda para recuperarlos más tarde.
+
+
+
+== Antes de empezar
+
+Debe haber añadido ya soluciones y componentes en la primera página para guardar los criterios de referencia futura.
+
+.Pasos
+. Haga clic en *Guardar criterios* en la página *Afinar criterios de búsqueda*.
+. Introduzca el *Nombre del criterio* y agregue información en los campos *Descripción*. El *Criterios Nombre* puede ser alfanumérico y puede agregar hasta 20 caracteres. El campo *Descripción* puede tomar hasta 100 caracteres alfanuméricos. La herramienta de matriz de interoperabilidad no permite nombres duplicados para guardar criterios. *Nombre de Criterios* es obligatorio.
+. Haga clic en *Actualizar criterios* para agregar filtros o criterios que se incluirán como parte de los criterios guardados.
+. Haga clic en *Guardar*. El enlace *Guardar criterios* cambia a *Actualizar criterios* después de guardar los criterios. Puede guardar un máximo de 10 criterios de búsqueda.
+
+
+
+
+== Resultado
+
+Al hacer clic en *Búsqueda guardada*, se muestra una ventana emergente *Criterios guardados*. La pestaña *Búsqueda reciente* muestra las búsquedas más recientes.
+
+Cada búsqueda guardada reciente se identifica de forma única por su marca de tiempo. Puede hacer clic en la marca de tiempo para ir a la página *Refine Search Criteria*.

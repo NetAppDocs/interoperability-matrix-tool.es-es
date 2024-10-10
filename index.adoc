@@ -1,0 +1,76 @@
+---
+sidebar: sidebar 
+permalink: index.html 
+keywords: interoperability matrix tool, imt, ONTAP SAN Host Simplified, 
+summary: 'La Herramienta de Matriz de Interoperabilidad (IMT) de NetApp es una aplicación basada en web. IMT le permite buscar configuraciones de productos y componentes de NetApp que cumplan con los estándares y requisitos especificados por NetApp.' 
+---
+= Descripción general de la herramienta de matriz de interoperabilidad
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+La Herramienta de Matriz de Interoperabilidad (IMT) de NetApp es una aplicación basada en web. IMT le permite buscar configuraciones de productos y componentes de NetApp que cumplan con los estándares y requisitos especificados por NetApp. IMT mantiene un repositorio de configuraciones y proporciona una interfaz fácil de usar para acceder fácilmente a la información de configuración admitida.
+
+Es posible acceder a IMT desde el sitio de soporte de NetApp mediante uno de los exploradores estándar siguientes:
+
+* Para Windows:
++
+** Chrome N y N-1
+** Mozilla Firefox N y N-1
++
+
+NOTE: N significa la última versión.
+
+** Internet Explorer 11 y Edge
+
+
+* Para Mac:
++
+** Chrome N y N-1
+** Mozilla Firefox N y N-1
+** Safari 8 y posteriores
+
+
++
+
+NOTE: La herramienta de matriz de interoperabilidad acepta enlaces URL con criterios para simplificar determinados casos de uso. Al hacer clic en un enlace de otra herramienta para abrir el IMT, puede aterrizar en una página del área de juegos, en lugar de en la página de inicio, con una solución y ciertos componentes preseleccionados.
+
+
+
+
+
+== Introducción a la herramienta de matriz de interoperabilidad
+
+La Herramienta de Matriz de Interoperabilidad (IMT) es una aplicación basada en web que se usa para buscar la compatibilidad de sus productos mediante diferentes soluciones, configuraciones, componentes y categorías.
+
+Para facilitar la navegación y la claridad, esta herramienta se divide en tres páginas: *Introducir criterios*, *Refinar criterios de búsqueda* y *Resultados*. Debe introducir los criterios de búsqueda en la primera página. Según tus criterios de búsqueda, puedes ver la compatibilidad de tu producto en la página *Refinar criterios de búsqueda*. En este tema se explicará rápidamente cómo utilizar IMT.
+
+Puedes ver los resultados en la página *Resultados*. Con esta herramienta, puede buscar componentes, realizar selecciones, crear criterios y ver las compatibilidades de su producto.
+
+Es posible realizar las siguientes tareas:
+
+[cols="25,65"]
+|===
+| Al usar esta página... | Puede ejecutar estas tareas... 
+
+
+| Introduzca los criterios | Introduzca un criterio de búsqueda y busque una solución, componente, configuración y categoría. Si conoce el nombre de la solución, puede buscar una solución mediante la función *ONTAP Host Simplificado* o la función *Búsqueda de soluciones*. Si conoce un nombre de componente, puede buscar un componente utilizando la función *Lista y Buscar* o *Búsqueda avanzada*. 
+
+
+| Restringir criterios de búsqueda | Encuentre una respuesta más definitiva sí o no a la solución, componente, configuración y categoría compatibles para su producto. Tienes la opción de cambiar los criterios iniciales que ingresaste en la primera página usando *Cambiar criterios* o *Probar un método diferente*. Aplique filtros a los componentes de cada categoría para encontrar la configuración más adecuada para su producto. Elimine los filtros que ha aplicado utilizando *Borrar todo* o el icono *deshacer*. 
+
+
+| Resultados | Después de hacer clic en *Continuar*, en el icono *>* o en el divisor de la segunda página, vea la página *Resultados*. Puede ver los componentes, las notas y los detalles del historial de una configuración, ordenar los resultados de la búsqueda, ver los criterios de búsqueda seleccionados, modificar los criterios de búsqueda, filtrar los resultados de la búsqueda y exportar los resultados de la búsqueda a una hoja de Microsoft Excel. 
+|===
+
+
+== Utilice la página de inicio de la herramienta de matriz de interoperabilidad
+
+La página de inicio de la Herramienta de Matriz de Interoperabilidad (IMT) le permite usar *Host SAN ONTAP simplificado*, *Búsqueda de soluciones, Lista y búsqueda* y *Búsqueda avanzada*.
+
+Puede establecer cualquiera de estas opciones como su búsqueda predeterminada usando la estrella *Establecer como predeterminada*. Al hacer clic en cualquiera de las opciones, se abre la página correspondiente para explorar las configuraciones compatibles.
+
+
+NOTE: Para buscar búsquedas guardadas anteriormente, puede usar el menú *Búsqueda guardada*. Si no encuentra la configuración que necesita, haga clic en el menú *¿No se encuentra la configuración?* e informe del problema.

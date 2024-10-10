@@ -1,0 +1,31 @@
+---
+sidebar: sidebar 
+permalink: deleting-tag-names.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Las configuraciones guardadas se pueden eliminar eliminando el nombre de la etiqueta. 
+---
+= Eliminar nombres de etiquetas
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Puede eliminar toda la etiqueta para las configuraciones guardadas.
+
+
+
+== Acerca de esta tarea
+
+Las configuraciones guardadas se pueden eliminar eliminando el nombre de la etiqueta. Al eliminar el nombre de la etiqueta, también se eliminarán todas las configuraciones asociadas a esas etiquetas.
+
+
+
+== Pasos
+
+. Haga clic en *Favoritos*.
+. En el cuadro de diálogo *Criterios guardados*, haga clic en la pestaña *Configuraciones*.
+. Haga clic en el icono de eliminar X en la columna *Acción*. Aparece la ventana emergente preguntándole si desea eliminar las etiquetas guardadas y sus configuraciones asociadas.
+. Haga clic en *Sí* para eliminar etiquetas y sus configuraciones asociadas.
+. Haga clic en *No* para conservar las etiquetas y sus configuraciones asociadas.
+

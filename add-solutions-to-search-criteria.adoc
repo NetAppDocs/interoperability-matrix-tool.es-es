@@ -1,0 +1,48 @@
+---
+sidebar: sidebar 
+permalink: add-solutions-to-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Puede agregar soluciones a sus criterios de búsqueda mediante el cuadro de texto de búsqueda o la búsqueda de soluciones. 
+---
+= Agregue soluciones a los criterios de búsqueda
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Puede agregar soluciones a sus criterios de búsqueda utilizando el cuadro de texto de búsqueda o el *Búsqueda de soluciones*.
+
+
+
+== Acerca de esta tarea
+
+Si conoce las soluciones específicas que se van a añadir a los criterios de búsqueda, puede introducir los nombres de las soluciones en el cuadro de texto de búsqueda. Puede utilizar la *Búsqueda de soluciones* si no está seguro de la solución que se va a añadir a los criterios de búsqueda.
+
+Si desea borrar las soluciones incluidas en los criterios de búsqueda, puede hacer clic en *Borrar todo* en la esquina superior derecha.
+
+
+
+=== Pasos
+
+. En la página de inicio de la herramienta de matriz de interoperabilidad, introduzca el nombre de la solución en el cuadro de texto de búsqueda para ver las posibles coincidencias.
++
+.. Haga clic en *Agregar* para incluir la solución a los criterios de búsqueda.
+
+
+. Opcional. Puede incluir una solución a los criterios de búsqueda utilizando la *Búsqueda de soluciones*.
++
+.. Haga clic en *Búsqueda de soluciones*.
+.. En el campo *Búsqueda de soluciones*, identifique la solución que se va a agregar a los criterios de búsqueda y haga clic en *Agregar*.
+.. Si es necesario, puede activar la casilla de verificación *Incluir PVR requerido, EOS* y *Obsolete configurations*. Esta casilla de verificación incluye la solicitud de variación de producto, el soporte de fin de versión y los artículos obsoletos en los resultados.
+
+
+
+
+Puede usar el cuadro de texto de búsqueda dentro de la ventana *Búsqueda de soluciones* para buscar una solución específica. Para eliminar una solución agregada usando la *Búsqueda de soluciones*, haz clic en *Eliminar* en el panel superior.
+
+
+
+=== Resultado
+
+Al incluir soluciones a los criterios de búsqueda, las soluciones se muestran en el panel derecho bajo *Criterios de búsqueda*.

@@ -1,0 +1,34 @@
+---
+sidebar: sidebar 
+permalink: using-row-compare.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Muchas filas contienen información muy similar en la Herramienta de Matriz de Interoperabilidad y puede convertirse en un tedioso proceso manual para encontrar la diferencia entre las filas. 
+---
+= Utilizar comparación de filas
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Muchas filas contienen información muy similar en la Herramienta de Matriz de Interoperabilidad y puede convertirse en un tedioso proceso manual para encontrar la diferencia entre las filas. La Herramienta de Matriz de Interoperabilidad proporciona una función para comparar dos filas.
+
+
+
+== Acerca de esta tarea
+
+En la página de resultados, cada solución aloja el botón Agregar para comparar o un icono en el encabezado de la tarjeta de configuración.
+
+
+
+== Pasos
+
+. Para agregar configuración para comparar, haga clic en el icono * Comparación de componentes de configuración *. Puede seleccionar un máximo de dos configuraciones para comparar.
+. Haga clic en el botón *Configuration Component Compare* para comparar dos filas.
+
+
+
+
+== Resultado
+
+Las diferencias se resaltan en la fuente *Bold* en la caja de visualización de escala. Los componentes se agrupan en los respectivos tipos de componentes. Los componentes que son iguales en ambas filas serán de fuente normal. No podrá comparar filas en dos soluciones.

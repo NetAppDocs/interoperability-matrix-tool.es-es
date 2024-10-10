@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: removing-config-from-saved-tags.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Puede eliminar o actualizar la configuración guardada que no necesita. 
+---
+= Elimine la configuración de las etiquetas guardadas
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Puede eliminar o actualizar la configuración guardada que no necesita.
+
+
+
+== Acerca de esta tarea
+
+Si ha guardado la configuración de los resultados, puede eliminarla si ya no la necesita como referencia.
+
+
+
+== Pasos
+
+. Haga clic en el icono de estrella amarilla para eliminar o actualizar la configuración guardada.
+. Haga clic en *Eliminar* para eliminar la configuración guardada. Después de hacer clic en el botón Eliminar en la ventana emergente, el icono de estrella cambia de amarillo a blanco.
+

@@ -1,0 +1,34 @@
+---
+sidebar: sidebar 
+permalink: loading-the-saved-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: En la página inicial, puede elegir buscar componentes o cargar los criterios guardados anteriormente. 
+---
+= Cargue los criterios guardados
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+En la página inicial, puede elegir buscar componentes o cargar los criterios guardados anteriormente.
+
+
+
+== Antes de empezar
+
+Debe haber guardado los criterios de búsqueda en la página de inicio.
+
+
+
+== Acerca de esta tarea
+
+Puede hacer clic en *Búsqueda guardada* para cargar todos los criterios que guardó anteriormente.
+
+
+
+== Pasos
+
+. Haga clic en *Búsqueda guardada* en la primera página.
+. Haga clic en la pestaña *Criterios* o *Configuración* para cargar los criterios o la configuración guardados. Después de seleccionar el nombre del criterio, los criterios se cargarán en el panel de criterios de búsqueda.
+

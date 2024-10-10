@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: add-config-names-to-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Puede agregar nombres de configuración a los criterios de búsqueda mediante el cuadro de texto de búsqueda. 
+---
+= Agregue nombres de configuración a los criterios de búsqueda
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Puede agregar nombres de configuración a los criterios de búsqueda mediante el cuadro de texto de búsqueda.
+
+
+
+== Antes de empezar
+
+Debe tener los detalles del nombre de configuración para buscar configuraciones compatibles. Por ejemplo, 20150316-114603946 es un nombre de configuración.
+
+
+
+== Pasos
+
+. En el cuadro de búsqueda, introduzca el nombre de la configuración para ver las posibles coincidencias.
+. Haga clic en *Agregar* para incluir el nombre de la configuración en los criterios de búsqueda.
+
