@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: select-component-to-upgrade-or-downgrade.html 
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
-summary: Puede usar la función Qué sucede en la página *Resultados* para actualizar o degradar un componente en la configuración de su producto. Puede cambiar los componentes y explorar la compatibilidad. 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network 
+summary: Puede utilizar la función de simulación en la página de resultados para actualizar o degradar un componente de la configuración del producto. Puede cambiar los componentes y explorar la compatibilidad. 
 ---
 = Seleccione un componente para actualizar o degradar
 :allow-uri-read: 

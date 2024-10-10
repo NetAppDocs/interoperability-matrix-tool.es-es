@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: tools-available-in-toolbox.html 
 keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Active IQ Interop Advisor, Synergy, BURT, EPIC, LatX, tech, refresh, tool 
-summary: La pestaña *Toolbox* te muestra una lista de herramientas útiles divididas en tres categorías de usuario. Se muestra un vínculo para cada herramienta. 
+summary: La pestaña Toolbox muestra una lista de herramientas útiles divididas en tres categorías de usuario. Se muestra un vínculo para cada herramienta. 
 ---
 = Herramientas disponibles en Toolbox
 :allow-uri-read: 

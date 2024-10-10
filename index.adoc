@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: index.html 
-keywords: interoperability matrix tool, imt, ONTAP SAN Host Simplified, 
+keywords: interoperability matrix tool, imt, ONTAP SAN Host Simplified 
 summary: 'La Herramienta de Matriz de Interoperabilidad (IMT) de NetApp es una aplicación basada en web. IMT le permite buscar configuraciones de productos y componentes de NetApp que cumplan con los estándares y requisitos especificados por NetApp.' 
 ---
 = Descripción general de la herramienta de matriz de interoperabilidad

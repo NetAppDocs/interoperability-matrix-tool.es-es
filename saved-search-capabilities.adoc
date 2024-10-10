@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: saved-search-capabilities.html 
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, search, criteria, solution , explorer 
-summary: Puede cargar diferentes soluciones o configuraciones utilizando el menú *Búsqueda guardada*, que le permite navegar a los resultados de búsqueda guardados anteriormente, los resultados de búsqueda recientes y las configuraciones guardadas. 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, search, criteria, solution, explorer 
+summary: Puede cargar diferentes soluciones o configuraciones mediante el menú Búsqueda guardada, que le permite navegar a los resultados de búsqueda guardados anteriormente, los resultados de búsqueda recientes y las configuraciones guardadas. 
 ---
 = Capacidades de búsqueda guardadas
 :allow-uri-read: 

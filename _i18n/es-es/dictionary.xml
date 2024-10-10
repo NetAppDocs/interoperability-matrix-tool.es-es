@@ -116,7 +116,6 @@
   <block id="40a7332ba168806ae7541e3b0d032443" category="cell">&lt;Your name&gt;</block>
   <block id="3546181752f7fdc0791222b6f6046888" category="cell">Haga clic para *logout* de IMT.</block>
   <block id="2500925cc553d5478036c23a243f8242" category="admonition">Si cambia el tamaño de la ventana, todas las páginas se vuelven responsivas.</block>
-  <block id="f3cc6d813c2827f8ce715f9a5062edea" category="summary">Puede exportar los resultados de la configuración desde la página *Results*, utilizando la función Exportar.</block>
   <block id="4d69b4cfaa8dc0d672ee2750a68eb35a" category="doc">Exportar resultados de configuración</block>
   <block id="edd2e0e3ba53de74b00fda66d6e0cd30" category="paragraph">Puede exportar los resultados de la configuración desde la página *Results*, utilizando la función *Export*. La exportación de los resultados de configuración contiene detalles de la solución de almacenamiento, los criterios de búsqueda, los detalles de configuración y cualquier alerta específica o información adicional. Puede exportar los resultados de la configuración a una hoja de cálculo de Excel o a un PDF.</block>
   <block id="4d3d15b0efce04bf2169f229735b7e5e" category="paragraph">El formato del nombre de archivo de la hoja de Excel que incluye los resultados de la configuración es<block ref="985f9eebd8d56495a0d7e06fd8095217" prefix=" " category="inline-code"></block>.</block>
@@ -178,7 +177,6 @@
   <block id="7d88aef12769e53ffd597ccbc028b3c9" category="list-text"><block ref="75f8e16df20a05b225d51263c0872f38" category="inline-link-rx"></block> – Informes técnicos y artículos de base de conocimientos. Considere buscar “IMT”.</block>
   <block id="dd490b81914dd945601e442a41cb4222" category="inline-link">Comunidad de NetApp</block>
   <block id="911f726ab6a13b9b83840ef0fa3bc02c" category="list-text"><block ref="03b9a261ab4d9f68701f67f952808855" category="inline-link-rx"></block> – Foros de productos y soluciones de NetApp. Considere buscar “IMT”.</block>
-  <block id="5b016255af60a025de6e765b432b0ddf" category="summary">*¿Qué pasa si* le permite explorar todas las configuraciones compatibles posibles que son compatibles.</block>
   <block id="a36cadb76d6293d933642bf23af7ee14" category="doc">Cómo usar qué sucede</block>
   <block id="2d02847e890a1e20bfe66285fc0e7a2e" category="paragraph">*¿Qué pasa si* le permite explorar todas las configuraciones compatibles posibles que son compatibles. Puede usar la función *What If* para actualizar o degradar un componente en una configuración seleccionada y explorar la compatibilidad. Para ver todas las configuraciones compatibles después de actualizar o degradar un componente, puede utilizar la opción *Exportar* para exportar los detalles de configuración a una hoja de cálculo de Excel o PDF.</block>
   <block id="6dd39fde28115596491353a74238c3eb" category="paragraph">Después de seleccionar un componente específico para actualizar o degradar en la ventana *¿Si?*, puede ver si el componente seleccionado es compatible con otros componentes de la configuración o si no hay configuraciones coincidentes. En caso de que no haya configuraciones coincidentes, debe considerar la ampliación de los criterios iniciales para derivar más configuraciones.</block>
@@ -250,7 +248,6 @@
   <block id="06d26363632e23515632763b195365bf" category="inline-link">vídeos de formación</block>
   <block id="a73a5f329094de39386ea09d01d1ddfc" category="inline-link">Asesor de Active IQ</block>
   <block id="fb29be4696f2fe6f4f627f98a34a2f1b" category="paragraph">También puede ver<block ref="ec04b3a82336da62b4db4326887e8bbd" category="inline-link-rx"></block> o abrir<block ref="78271e392417a9b42ec24b305b4c350a" category="inline-link-rx"></block> desde la página de inicio.</block>
-  <block id="cf1c4646242def1428c155c9317d29a1" category="summary">La Herramienta de Matriz de Interoperabilidad le permite explorar las configuraciones compatibles para su producto desde la página *Refinar criterios de búsqueda*.</block>
   <block id="784e74992af3834f944fb515f4448bba" category="doc">La página Afinar Criterios de Búsqueda para verificar la compatibilidad</block>
   <block id="1587d4268b25a2b9335f44610033db17" category="paragraph">La Herramienta de Matriz de Interoperabilidad le permite explorar las configuraciones compatibles para su producto desde la página *Refinar criterios de búsqueda*. Puede reducir los resultados de configuración de esta página a las configuraciones deseadas para su producto.</block>
   <block id="e657f68f47b6f46ab9d94df9ae5adb88" category="paragraph">Puede navegar a la página *Refinar criterios de búsqueda* desde la página de criterios de búsqueda inicial, solo si los criterios que ha introducido tienen configuraciones compatibles. La página *Refinar criterios de búsqueda* se divide en dos paneles:</block>
@@ -326,7 +323,6 @@
   <block id="c9cb70ada3079e89b71a014047a8c2da" category="list-text">Haga clic en *Guardar*. El enlace *Guardar criterios* cambia a *Actualizar criterios* después de guardar los criterios. Puede guardar un máximo de 10 criterios de búsqueda.</block>
   <block id="1c2330855bcf8dd1b692d50681ea4805" category="paragraph">Al hacer clic en *Búsqueda guardada*, se muestra una ventana emergente *Criterios guardados*. La pestaña *Búsqueda reciente* muestra las búsquedas más recientes.</block>
   <block id="d449eb38510b44904f1a170873f49309" category="paragraph">Cada búsqueda guardada reciente se identifica de forma única por su marca de tiempo. Puede hacer clic en la marca de tiempo para ir a la página *Refine Search Criteria*.</block>
-  <block id="888b783c8de25fa8c73e802cc44e1eae" category="summary">Puede usar la función Qué sucede en la página *Resultados* para actualizar o degradar un componente en la configuración de su producto. Puede cambiar los componentes y explorar la compatibilidad.</block>
   <block id="d9e123d5d66e7b9d2184c4852d600235" category="doc">Seleccione un componente para actualizar o degradar</block>
   <block id="50f0605b66fe680311cdaf91c21b5c2c" category="paragraph">Puede usar la función *What If* en la página *Results* para actualizar o degradar un componente en la configuración de su producto. Puede cambiar los componentes y explorar la compatibilidad.</block>
   <block id="4fc43e1250ee0fbf204db6bdc5a80acf" category="list-text">Haga clic en *¿Qué pasa si* para ver los componentes que puede actualizar o degradar para modificar la configuración seleccionada.</block>
@@ -521,7 +517,6 @@
   <block id="f5903f4247c226fe311fe85039ee08b1" category="list-text">Haga clic en *Búsqueda guardada*.</block>
   <block id="5e78b03368007e0be6e2f7b2e64bc287" category="list-text">Seleccione la pestaña *Búsqueda reciente* para ver las búsquedas guardadas recientemente. Se mostrarán las búsquedas recientes.</block>
   <block id="1f70cd49a7cc95ade94bc142d2f26097" category="list-text">Selecciona la pestaña *Criterios de búsqueda* para ver tus criterios de búsqueda guardados específicos. Se mostrarán los criterios guardados.</block>
-  <block id="e9c7f082c18ebfe8f5e5964edf7ec988" category="summary">Puede buscar diferentes componentes utilizando *Búsqueda avanzada* y agregar o eliminar componentes de sus criterios de búsqueda.</block>
   <block id="fa8f8ea5e084a3d02f08c39c744b591d" category="doc">Trabajar con Búsqueda Avanzada</block>
   <block id="81063a953934d8cb5ee6f81fe405c8b1" category="paragraph">Puede buscar diferentes componentes utilizando la *Búsqueda avanzada* para agregar o eliminar componentes de sus criterios de búsqueda. Puede utilizar el cuadro de texto de búsqueda dentro de la ventana *Búsqueda avanzada* para buscar componentes.</block>
   <block id="6756f030171d226f3144040663767c49" category="paragraph">Puede usar los siguientes filtros según sea necesario:</block>
@@ -605,4 +600,11 @@
   <block id="cbb5df1a2f14206cda92df2eee9ad768" category="sidebar">Realice búsquedas comunes</block>
   <block id="1f2912ea316c2e90ba1fb996bce7c786" category="sidebar">Capacidades de búsqueda guardadas</block>
   <block id="c9db0e0f049034dde7c772dfb13bbb54" category="sidebar">El uso no puede encontrar la configuración</block>
+  <block id="e2585c3f38551dcb44861bc8f2483a6c" category="summary">Puede exportar los resultados de la configuración desde la página Resultados mediante la función Exportar.</block>
+  <block id="7f9fe1dfd084891a277ce5fe84abf5e4" category="summary">¿Qué le permite explorar todas las configuraciones compatibles posibles que son compatibles?</block>
+  <block id="1cdb0206d28a4fbf2bdfded91815cba2" category="summary">La Herramienta de Matriz de Interoperabilidad le permite explorar las configuraciones compatibles para su producto desde la página Afinar criterios de búsqueda.</block>
+  <block id="8be207b454cca2428f17b89b2413b5f2" category="summary">Puede cargar diferentes soluciones o configuraciones mediante el menú Búsqueda guardada, que le permite navegar a los resultados de búsqueda guardados anteriormente, los resultados de búsqueda recientes y las configuraciones guardadas.</block>
+  <block id="93e759c00f4904973cb28148a9620b79" category="summary">Puede utilizar la función de simulación en la página de resultados para actualizar o degradar un componente de la configuración del producto. Puede cambiar los componentes y explorar la compatibilidad.</block>
+  <block id="7380129768771772e2da1bd4cb1ca40e" category="summary">La pestaña Toolbox muestra una lista de herramientas útiles divididas en tres categorías de usuario. Se muestra un vínculo para cada herramienta.</block>
+  <block id="60ffbb3dc985d9f915426091ca716097" category="summary">Puede buscar diferentes componentes mediante Búsqueda avanzada y agregar o eliminar componentes de los criterios de búsqueda.</block>
 </blocks>

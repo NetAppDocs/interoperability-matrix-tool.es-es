@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: export-config-results.html 
 keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
-summary: Puede exportar los resultados de la configuración desde la página *Results*, utilizando la función Exportar. 
+summary: Puede exportar los resultados de la configuración desde la página Resultados mediante la función Exportar. 
 ---
 = Exportar resultados de configuración
 :allow-uri-read: 
